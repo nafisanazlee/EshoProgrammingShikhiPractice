@@ -70,7 +70,9 @@ int main()
 		   ara2[1] = ara2 er 2nd element = 100 
 		   ara[i] = ara2[i] = ara er 2nd element er jaygay ara2
 		                                 er 2nd element
-		   ara[1] = 90
+		   
+		  
+		ara[1] = 90
 
 		   2nd loop er result: 
 		   ara[] = { 100, 90, 30, 40, 50, 60, 70, 80, 90, 100 } 

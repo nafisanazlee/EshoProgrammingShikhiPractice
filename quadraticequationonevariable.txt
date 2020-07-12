@@ -1,0 +1,9 @@
+A Program to solve a quadratic equation (one variable)
+the equation should look like this:
+ax^2 + bx + c = 0
+The program will ask for the value of a,b and c
+and use them to solve the equation using the following formula(s).
+We'll get 2 values of x.
+x1 = ( -b + √(b^2 - 4ac)) / 2*a
+x2 = ( -b - √(b^2 - 4ac)) / 2*a
+we'll assign the value of (b^2 - 4ac) separately in a variable. if (b^2 - 4ac) < 0 then x doesn't have a real value.so the program won't go further.

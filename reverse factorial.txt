@@ -1,0 +1,7 @@
+A program to do the reverse factorial of an interger
+First,It will ask to type an integer to do its reverse factorial.
+(if it has an integer one)
+Then to do the reverse factorial,it will follow some steps.
+It'll start by dividing the number by 1.then by 2,then by 3,by 4 and so on until the result is "1".Basically it will divide the input by the positive integers serially.We'll do this using a for loop.
+and the last divisor which gives the result 1 is the reverse factotial.
+if the result becomes less than 1,it will show that the input doesn't have an integer "reverse factorial."
